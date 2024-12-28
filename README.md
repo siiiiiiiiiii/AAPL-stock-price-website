@@ -10,7 +10,6 @@ You can view the live website here:
 ## Project Files
 
 This repository contains the following key files:
-
 - **AAPL stock price trend.ipynb**: A Jupyter Notebook that includes data analysis and visualization code for Apple stock prices.
 - **index.html**: The main HTML file used for the GitHub Pages deployment.
 - **README.md**: This file provides an overview of the project and instructions for accessing and using the website.
