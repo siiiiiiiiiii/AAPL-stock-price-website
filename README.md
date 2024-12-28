@@ -1,3 +1,6 @@
+https://siiiiiiiiiii.github.io/AAPL-stock-price-trend-/ (The link may not work if it has expired. If this happens, please open index.html and download it)
+
+
 This is a stock analysis website featuring a price chart for Apple (AAPL). The chart displays multiple technical indicators, including:
 
 K-line (Candlestick chart): Shows daily open, close, high, and low prices.
