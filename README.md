@@ -4,8 +4,7 @@ Welcome to the **AAPL Stock Price Trend** website! This project provides a detai
 
 ## Live Website
 
-You can view the live website here:  
-[Visit AAPL Stock Price Trend](https://siiiiiiiiiiii.github.io/AAPL-stock-price-trend/)
+You can view the live website here:   https://siiiiiiiiiiii.github.io/AAPL-stock-price-trend/
 
 ## Project Files
 
@@ -28,19 +27,19 @@ The website includes the following features:
 
 ## How to Use
 
-1. Open the [live website](https://siiiiiiiiiiii.github.io/AAPL-stock-price-trend/) in your browser.
+1. Open the https://siiiiiiiiiiii.github.io/AAPL-stock-price-trend/ in your browser.
 2. Explore the candlestick chart and technical indicators.
 3. Use the timeline slider to analyze specific date ranges.
 
 ---
 
-If you encounter any issues, feel free to report them on the [Issues](https://github.com/siiiiiiiiiiii/AAPL-stock-price-trend/issues) page.
+If you encounter any issues, feel free to report them on the https://github.com/siiiiiiiiiiii/AAPL-stock-price-trend/issues page.
 
 ---
 
 ### Author
 
-This project was created and maintained by **[siiiiiiiiiiii](https://github.com/siiiiiiiiiiii)**.
+This project was created and maintained by https://github.com/siiiiiiiiiiii
 
 ---
 
