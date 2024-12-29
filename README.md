@@ -29,16 +29,18 @@ The website includes the following features:
 - **Volume Data**: Includes volume below the price chart.
 - **Interactive Timeline Slider**: Zoom in and out for specific periods.
 
-## How to Use
-
-1. Open the[ https://siiiiiiiiiiii.github.io/AAPL-stock-price-trend/ ](https://siiiiiiiiiii.github.io/AAPL-stock-price-trend/)in your browser.
-2. Explore the candlestick chart and technical indicators.
-3. Use the timeline slider to analyze specific date ranges.
+### How to Use
+1. Visit the website link provided above.
+2. Use the interactive chart to explore Apple stock trends.
+3. Hover over data points to view detailed information about stock prices and technical indicators.
 
 ### Future Improvements
-- Add support for more stock tickers.
-- Include real-time data updates using APIs.
-- Enhance visualizations with more technical indicators.
+- Add support for more stock tickers, such as Tesla (TSLA) and Microsoft (MSFT).
+- Implement real-time data updates using Yahoo Finance or Alpha Vantage APIs.
+- Enhance the UI for mobile-friendly design.
+
+### Contributing
+Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests.
 
 ## Acknowledgments
 This project was partially inspired by tutorials from Runoob.com. The tutorial "Python 量化股票 K 线图" provided valuable insights for implementing candlestick chart visualizations.  
