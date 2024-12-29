@@ -38,3 +38,7 @@ This project was partially inspired by tutorials from Runoob.com. The tutorial "
 Reference: Python 量化股票 K 线图 | 菜鸟教程. (2017). Runoob.com.  
 [https://www.runoob.com/python-qt/python-stock-line-chart.html](https://www.runoob.com/python-qt/python-stock-line-chart.html)
 
+## AI Contribution
+This project was  supported by ChatGPT. 
+
+
