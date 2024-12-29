@@ -6,6 +6,10 @@ Welcome to the **AAPL Stock Price Trend** website! This project provides a detai
 
 You can view the  website here:   [https://siiiiiiiiiiii.github.io/AAPL-stock-price-trend/](https://siiiiiiiiiii.github.io/AAPL-stock-price-trend/)
 
+## Chart
+![AAPL Stock Price Chart](chart.png)
+
+
 ## Project Files
 
 This repository contains the following key files:
