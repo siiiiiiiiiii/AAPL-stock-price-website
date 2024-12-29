@@ -35,7 +35,10 @@ The website includes the following features:
 2. Explore the candlestick chart and technical indicators.
 3. Use the timeline slider to analyze specific date ranges.
 
-Thank you for visiting! 🎉
+### Future Improvements
+- Add support for more stock tickers.
+- Include real-time data updates using APIs.
+- Enhance visualizations with more technical indicators.
 
 ## Acknowledgments
 This project was partially inspired by tutorials from Runoob.com. The tutorial "Python 量化股票 K 线图" provided valuable insights for implementing candlestick chart visualizations.  
